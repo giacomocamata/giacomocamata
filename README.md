@@ -9,7 +9,7 @@ open-source tools around it:
 
 - **[eduvpn-logger](https://github.com/giacomocamata/eduvpn-logger)**: who connected to an eduVPN
   server, from where and when. One log line per WireGuard session event, ready for a SIEM.
-  Presented at the [GARR Workshop 2026](https://ws26.garr.it/it/speaker/giacomo-camata).
+  Talk at the [GARR Workshop 2026](https://ws26.garr.it/it/speaker/giacomo-camata) (Rome, 5 November 2026).
 - **[eduvpn-fortigate-rsso](https://github.com/giacomocamata/eduvpn-fortigate-rsso)**: sends
   eduVPN session identities to a FortiGate via RADIUS Accounting (RSSO), for per-user firewall
   policies and logs.
